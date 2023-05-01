@@ -71,8 +71,15 @@ article {
     margin-bottom: 8vh;
 }
 
+article h2 {
+    font-size: 1.5rem;
+    margin-bottom: 5vh;
+
+}
+
 figcaption {
     text-align: center;
+    margin-top: 2vh;
 }
 
 footer {
